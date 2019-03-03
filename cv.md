@@ -1,4 +1,4 @@
-##Ekaterina Gorbunova
+## Ekaterina Gorbunova
 
 **mobile**: +79253096961
 **e-mail**: gorbunova.kate29@gmail.com
@@ -8,13 +8,12 @@
 **Summary:**
 After over 5 years in testing, I want to try another side of development, get new skills and change job area. 
 **Skills:**
-*
-*SQL
-*Java - Novice
-*Selenium
-*Agile, Kanban, Waterfall 
-*Bitbacket
-*Jenkins
+* SQL
+* Java - Novice
+* Selenium
+* Bitbacket
+* Jenkins
+* Agile, Kanban, Waterfall 
 **Experience:**
 Great hands-on experience in testing.
 Deep background banking systems testing.
