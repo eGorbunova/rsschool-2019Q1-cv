@@ -1,6 +1,6 @@
 ##Ekaterina Gorbunova
 
-**mobile*: +79253096961
+**mobile**: +79253096961
 **e-mail**: gorbunova.kate29@gmail.com
 **skype**: ketti_29
 
@@ -18,7 +18,7 @@ After over 5 years in testing, I want to try another side of development, get ne
 **Experience:**
 Great hands-on experience in testing.
 Deep background banking systems testing.
-Internal courses in EPAM by Automated testing in Java.
+Internal courses on Automated testing in Java.
 **Education:** 
 Russian State University of Technologies and Management
 2007-2012 Applied computer science in economics.
